@@ -1,0 +1,12 @@
+pandas==2.3.0
+numpy==2.2.6
+scipy==1.15.3
+matplotlib==3.10.3
+seaborn==0.13.2
+plotly==6.3.1
+polars==1.31.0
+matchms==0.30.2
+massql==2025.6.18
+chemparse==0.3.2
+requests==2.32.4
+tqdm==4.67.1

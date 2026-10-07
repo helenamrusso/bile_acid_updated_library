@@ -1,0 +1,12 @@
+# Track only code (.py, .ipynb) plus repo support files; ignore everything else
+*
+!*/
+!*.py
+!*.ipynb
+!README.md
+!requirements.txt
+!.gitignore
+
+# Never track caches/checkpoints
+__pycache__/
+.ipynb_checkpoints/
