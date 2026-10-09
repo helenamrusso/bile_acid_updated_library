@@ -1,0 +1,3 @@
+Note: Figure 1C is the same as Supplementary Figure 4B (C24)
+
+You have to manually input the bile acid subclasses (e.g. C23, C27, etc.) you want to display when running all the scripts for these figures (Part A and Part B).
